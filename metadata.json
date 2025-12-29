@@ -1,0 +1,5 @@
+{
+  "name": "Ajuda Rápida para Idosos",
+  "description": "Um aplicativo simples para idosos pedirem ajuda em uma emergência com um único clique. Ele notifica uma lista de contatos pré-definida e exibe uma mensagem reconfortante.",
+  "requestFramePermissions": []
+}
